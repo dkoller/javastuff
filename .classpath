@@ -14,5 +14,6 @@
 	<classpathentry kind="lib" path="lib/test/mockito-core-1.9.5.jar"/>
 	<classpathentry kind="lib" path="lib/guava-14.0.jar"/>
 	<classpathentry kind="lib" path="lib/joda-time-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/test/JUnitParams-1.0.2.jar" sourcepath="C:/Users/dko/Downloads/srcAndJavadoc/JUnitParams-1.0.2-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

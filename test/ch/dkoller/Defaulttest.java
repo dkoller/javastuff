@@ -6,6 +6,5 @@ public class Defaulttest {
 
 	@Test
 	public void testName() throws Exception {
-		
 	}
 }
